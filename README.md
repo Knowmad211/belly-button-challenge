@@ -14,7 +14,7 @@ This repository contains two deliverables:
     - [StarterCode](StarterCode)
 
 # Source Data
-- The data for this assignment was provided to us in the file [samples.json](Data/samples.json) which itself was pulled from the site linked in the description above.
+- The data for this assignment was provided to us in the file [samples.json](data/samples.json) which itself was pulled from the site linked in the description above.
 
 # References
 - The code written for this assignment was written using examples from class, class notes, examples from StackOverflow, and ChatGPT, along with collaboration and help from my classmates, tutors, and alumni of the Data Analytics Bootcamp.

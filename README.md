@@ -6,7 +6,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 # Contents
 This repository contains two deliverables:
-- "Abushacra_app.js" which contains the JavaScript file used to create the Biodiversity Dashboard.
+- [Abushacra_app.js](static/Abushacra_app.js) which is the JavaScript file used to create the Biodiversity Dashboard.
  
 
 # Starter Code

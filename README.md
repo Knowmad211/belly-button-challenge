@@ -5,7 +5,7 @@ The prompt for this assignment is as follows:
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare."
 
 # Contents
-This repository contains two deliverables:
+This repository contains one deliverable:
 - [Abushacra_app.js](static/Abushacra_app.js) which is the JavaScript file used to create the Biodiversity Dashboard.
  
 
